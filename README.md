@@ -9,8 +9,8 @@
 ### Setter
 ![Gambar 2](screenshot/ss1.png)
 
-###Getter
+### Getter
 ![Gambar 3](screenshot/ss2.png)
 
-###Output
+### Output
 ![Gambar 4](screenshot/ss4.png)
